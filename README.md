@@ -4,6 +4,12 @@ A working multithreaded static file webserver in Java. Inspired by the idea of h
 
 Bytecode with JDK 11 uses around 5.6 kB.
 
+## Run
+Run with
+```
+java SmallJavaWebServer 
+```
+
 ## Containers
 Okay, now I got some containers. 
 
